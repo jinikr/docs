@@ -1,0 +1,7 @@
+version: '2'
+services:
+  swagger-editor:
+    image: swaggerapi/swagger-editor
+    ports:
+      - "8088:8080"
+
